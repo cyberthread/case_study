@@ -24,7 +24,7 @@ To be successful you will need to:
 - Evidence of planning and thinking trhough the layout and design of the site before coding was submitted
 
 ## Content Specs
-- Your name as the name of the website
+- Your name as the site identifier (name) of the website
 - The name and description of the brand and product you created
 - An overview of the audience and goal(s) of this specific product (not the assignment, but rather, what your brand is and what they intend to accomplish through this particular site)
 - Final product is well-documented through multiple mockups using screenshots and/or through video screen recordings
