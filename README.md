@@ -21,7 +21,7 @@ To be successful you will need to:
 - Case study design effectively uses available screen real estate for a design that works well on narrow mobile screens, laptops and large 32" monitors.
   - This will require more than one media query and the implementation of flexbox and/or CSS grid
 - Text is easy to read and skim because strategies we've learned this semester have been implemented
-- Evidence of planning and thinking trhough the layout and design of the site before coding was submitted
+- Evidence of planning and thinking through the layout and design of the site before coding was submitted
 
 ## Content Specs
 - Your name as the site identifier (name) of the website
